@@ -10,5 +10,10 @@ A top-down game that is time-based and increases speed as you get more score. Yo
 
 <img width="360" height="640" alt="dj" src="https://github.com/user-attachments/assets/d0120953-20c6-46fc-9744-aa5023653603" />
 
+### Downloads:
+* Windows EXE
+* Mac App
+* Source Code
 
-Developer: Joey Zheng
+### Made By:
+Made by: Joey Zheng
