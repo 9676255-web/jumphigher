@@ -16,4 +16,4 @@ A top-down game that is time-based and increases speed as you get more score. Yo
 * Source Code
 
 ### Made By:
-Made by: Joey Zheng
+Creator: Joey Zheng
