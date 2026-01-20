@@ -5,7 +5,6 @@ A top-down game that is time-based and increases speed as you get more score. Yo
  
 <img width="256" height="256" alt="New Piskel-1 png-2" src="https://github.com/user-attachments/assets/f3ae2b22-567b-4b0d-8e6e-a4adc91b933f" />
 
-* Inspiration for this game is Doodle Jump
 * I want the game to look similar to this:
 
 <img width="360" height="640" alt="dj" src="https://github.com/user-attachments/assets/d0120953-20c6-46fc-9744-aa5023653603" />
