@@ -8,7 +8,7 @@
 Inspiration is Doodle Jump
 I want the game to look like this:
 
-<img width="720" height="1280" alt="dj" src="https://github.com/user-attachments/assets/d0120953-20c6-46fc-9744-aa5023653603" />
+<img width="360" height="640" alt="dj" src="https://github.com/user-attachments/assets/d0120953-20c6-46fc-9744-aa5023653603" />
 
 
 Developer: Joey Zheng
